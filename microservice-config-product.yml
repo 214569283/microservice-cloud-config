@@ -36,7 +36,7 @@ eureka:
     prefer-ip-address: true 
   
 emp:
-  name: dognet
+  name: smalldog
 ---
 server:
   port: 8001
